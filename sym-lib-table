@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2171790001_MOL") (type "KiCad") (uri "${KIPRJMOD}/symbols/2171790001_MOL.kicad_sym") (options "") (descr ""))
+	(lib (name "USB-TH_UK-USB-AF-90-19_6") (type "KiCad") (uri "${KIPRJMOD}/symbols/USB-TH_UK-USB-AF-90-19_6_UK-USB_AF_90-19_6_C698206.kicad_sym") (options "") (descr ""))
+	(lib (name "RJ45-TH_HR913550AE") (type "KiCad") (uri "${KIPRJMOD}/symbols/RJ45-TH_HR913550AE_HR913550AE_C192706.kicad_sym") (options "") (descr ""))
+)
